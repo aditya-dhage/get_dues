@@ -1,0 +1,8 @@
+# Output file with summary
+output.csv
+
+# Node modules directory
+node_modules/
+
+# Mac directory store
+.DS_Store
